@@ -194,8 +194,9 @@ body {
     margin-top: 20px;
     height: 45px;
     width: 200px;
-    border-radius: 20px;
-    background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    border-radius: 50px;
+    background: hsl(224, 30%, 27%);
+
 }
 
 @media screen and (max-width: 375px) {
@@ -208,7 +209,7 @@ body {
 
 .right-button:hover {
     cursor: pointer;
-    background: hsl(224, 30%, 27%);
+    background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
 }
 
 .right-red-lightning-icon {
