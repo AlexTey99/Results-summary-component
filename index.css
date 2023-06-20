@@ -16,7 +16,7 @@ body {
 .main-container {
     display: flex;
     border-radius: 20px 20px 20px 20px;
-    box-shadow: 5px 20px 30px 10px hsl(241, 100%, 89%);
+    box-shadow: 0px 10px 20px 10px hsl(225deg 75% 96.86%);
     width: 500px;
 }
 
